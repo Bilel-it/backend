@@ -16,7 +16,7 @@ Angular/crud-tuto-front/.angular/**
 */.project
 .project
 .cache/**
-target/
+
 tmp_sh/
 .gwt/
 .settings/
@@ -27,7 +27,6 @@ pom.xml.versionsBackup
 .DS_Store
 **/.gradle
 **/local.properties
-**/target
 **/Californium.properties
 **/.env
 .instance_id
